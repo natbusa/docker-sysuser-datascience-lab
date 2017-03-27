@@ -1,14 +1,14 @@
-# natbusa/sysuser-datascience-lab
+# natbusa/jupyterhub-datascience-lab
 
 Built from the `jupyter/datascience-notebook` base image.  
 see: https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook
 
 This image contains a single user notebook server for use with [JupyterHub](https://github.com/jupyterhub/jupyterhub). 
 It is a small extension on the jupyterhub/systemuser, setting the necessary parameters for running JupyterLab by default. 
-For more info on how to combine JupyterHub running jupyter lab docker images, read https://github.com/natbusa/docker-sysuser-scipy-lab
+For more info on how to combine JupyterHub running jupyter lab docker images, read https://github.com/natbusa/docker-jupyterhub-scipy-lab
 
 ## use this image
-This image has been uploaded on docker hub as [natbusa/sysuser-datascience-lab](https://hub.docker.com/r/natbusa/sysuser-datascience-lab/)
+This image has been uploaded on docker hub as [natbusa/jupyterhub-datascience-lab](https://hub.docker.com/r/natbusa/jupyterhub-datascience-lab/)
 
 ## build your own image
 

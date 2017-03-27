@@ -1,4 +1,4 @@
-# Build as natbusa/sysuser-datascience-lab
+# Build as natbusa/jupyterhub-datascience-lab
 # Run with the DockerSpawner in JupyterHub
 
 FROM jupyter/datascience-notebook
